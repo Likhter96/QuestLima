@@ -1,4 +1,4 @@
-package com.example.webproject.models;
+package com.javarush.quest.likhter.models.models;
 
 public enum Step {
 

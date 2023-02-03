@@ -1,8 +1,7 @@
-package com.example.webproject.controllers;
+package com.javarush.quest.likhter.controllers;
 
-import com.example.webproject.models.Step;
+import com.javarush.quest.likhter.models.models.Step;
 
-import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.*;
 import java.io.IOException;

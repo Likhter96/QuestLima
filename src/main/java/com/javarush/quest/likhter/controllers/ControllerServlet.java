@@ -1,9 +1,9 @@
-package com.example.webproject.controllers;
+package com.javarush.quest.likhter.controllers;
 
-import com.example.webproject.models.AnswerOptions;
-import com.example.webproject.models.Choose;
-import com.example.webproject.models.Questions;
-import com.example.webproject.models.Step;
+import com.javarush.quest.likhter.models.models.AnswerOptions;
+import com.javarush.quest.likhter.models.models.Choose;
+import com.javarush.quest.likhter.models.models.Questions;
+import com.javarush.quest.likhter.models.models.Step;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletContext;

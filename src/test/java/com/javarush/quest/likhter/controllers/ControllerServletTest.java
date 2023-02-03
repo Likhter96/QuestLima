@@ -1,6 +1,6 @@
-package com.example.webproject.controllers;
+package com.javarush.quest.likhter.controllers;
 
-import com.example.webproject.models.Step;
+import com.javarush.quest.likhter.models.models.Step;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

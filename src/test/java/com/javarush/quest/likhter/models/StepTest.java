@@ -1,5 +1,6 @@
-package com.example.webproject.models;
+package com.javarush.quest.likhter.models;
 
+import com.javarush.quest.likhter.models.models.Step;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
